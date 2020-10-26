@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+sa-irn-68845-dev-infra.json
+.json
